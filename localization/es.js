@@ -9,7 +9,7 @@ var rsc_jui_fr = {
 
     no_filters_found: "Filtro no definido",
 
-    rules_group_AND: "todas las reglas",
+    rules_group_AND: "Debe cumplir todas las reglas",
     rules_group_OR: "cualquiera de las reglas",
 
     rule: "regla",
